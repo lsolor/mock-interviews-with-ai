@@ -22,7 +22,7 @@ Ensure that you have the following prerequisites installed and set up on your sy
 
 ```bash
 # Clone repository
-git clone https://github.com/darrylschaefer/mock-interviews-with-ai
+git clone https://github.com/lsolor/mock-interviews-with-ai
 
 # Change directory
 cd mock-interviews-with-ai
@@ -88,5 +88,5 @@ Find the options menu below the console with these available features:
 
 ## Images
 
-<img src="https://github.com/darrylschaefer/mock-interviews-with-ai/assets/119073511/50b44684-5dfb-4de8-8bdf-8038fd9498b4)"></img>
+<img src="https://github.com/lsolor/mock-interviews-with-ai/assets/119073511/50b44684-5dfb-4de8-8bdf-8038fd9498b4)"></img>
 
