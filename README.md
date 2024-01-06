@@ -88,5 +88,5 @@ Find the options menu below the console with these available features:
 
 ## Images
 
-<img src="https://github.com/lsolor/mock-interviews-with-ai/assets/119073511/50b44684-5dfb-4de8-8bdf-8038fd9498b4)"></img>
+<img src="https://github.com/lsolor/mock-interviews-with-ai/blob/main/assets/237423700-50b44684-5dfb-4de8-8bdf-8038fd9498b4.png"></img>
 
